@@ -40,19 +40,19 @@
     "url": "https://beyond.bu.ac.th",
     "icon": "https://favicons.githubusercontent.com/beyond.bu.ac.th",
     "slug": "beyond-bu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1640,
-    "timeDay": 1477,
-    "timeWeek": 1562,
-    "timeMonth": 1640,
-    "timeYear": 1640,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1610,
+    "timeDay": 1366,
+    "timeWeek": 1524,
+    "timeMonth": 1610,
+    "timeYear": 1610,
     "dailyMinutesDown": {
-      "2022-09-23": 0
+      "2022-09-23": 16
     }
   },
   {
