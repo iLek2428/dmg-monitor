@@ -22,9 +22,9 @@
     "url": "https://dlp.obec.go.th",
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 6370,
     "timeMonth": 5786,
     "timeYear": 5786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-05": 0
+    }
   },
   {
     "name": "Beyond BU",
