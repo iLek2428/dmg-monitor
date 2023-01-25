@@ -83,18 +83,19 @@
     "url": "https://beyond.bu.ac.th",
     "icon": "https://icons.duckduckgo.com/ip3/beyond.bu.ac.th.ico",
     "slug": "beyond-bu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1962,
-    "timeDay": 2537,
-    "timeWeek": 1798,
-    "timeMonth": 1933,
-    "timeYear": 1962,
+    "time": 2005,
+    "timeDay": 5210,
+    "timeWeek": 2558,
+    "timeMonth": 2119,
+    "timeYear": 2005,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-10-28": 28,
       "2022-09-23": 16
     }
@@ -104,18 +105,20 @@
     "url": "https://mooc.rmuti.ac.th",
     "icon": "https://icons.duckduckgo.com/ip3/mooc.rmuti.ac.th.ico",
     "slug": "rmuti-mooc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1777,
-    "timeDay": 1248,
-    "timeWeek": 1469,
-    "timeMonth": 1682,
-    "timeYear": 1777,
-    "dailyMinutesDown": {}
+    "time": 1784,
+    "timeDay": 2013,
+    "timeWeek": 1633,
+    "timeMonth": 1716,
+    "timeYear": 1784,
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Google",
@@ -144,17 +147,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
     "timeDay": 111,
     "timeWeek": 119,
     "timeMonth": 169,
     "timeYear": 210,
-    "dailyMinutesDown": {
-      "2023-01-25": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
