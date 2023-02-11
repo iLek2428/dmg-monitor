@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
     "status": "up",
-    "uptime": "94.78%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.55%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "94.78%",
+    "uptimeYear": "94.79%",
     "time": 6949,
     "timeDay": 7474,
     "timeWeek": 8842,
@@ -151,9 +151,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,6 +162,8 @@
     "timeWeek": 167,
     "timeMonth": 172,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-11": 0
+    }
   }
 ]
