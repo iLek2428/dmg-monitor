@@ -34,7 +34,7 @@
     "timeDay": 1751,
     "timeWeek": 6292,
     "timeMonth": 7168,
-    "timeYear": 7402,
+    "timeYear": 7400,
     "dailyMinutesDown": {
       "2023-10-24": 20,
       "2023-10-23": 22,
@@ -88,9 +88,9 @@
     "url": "https://beyond-mct.bu.ac.th",
     "icon": "https://icons.duckduckgo.com/ip3/beyond-mct.bu.ac.th.ico",
     "slug": "beyond-bu",
-    "status": "up",
+    "status": "down",
     "uptime": "96.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "96.29%",
@@ -100,6 +100,7 @@
     "timeMonth": 1705,
     "timeYear": 1960,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-11-03": 15,
       "2023-09-25": 999,
       "2023-09-24": 1440,
