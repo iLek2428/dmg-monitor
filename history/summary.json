@@ -24,18 +24,19 @@
     "url": "https://dlp.obec.go.th",
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "98.91%",
     "time": 7295,
     "timeDay": 6520,
     "timeWeek": 7576,
     "timeMonth": 7145,
     "timeYear": 7410,
     "dailyMinutesDown": {
+      "2023-11-24": 0,
       "2023-11-22": 16,
       "2023-11-21": 40,
       "2023-11-20": 102,
@@ -84,7 +85,7 @@
       "2023-05-30": 90,
       "2023-05-29": 130,
       "2023-05-28": 288,
-      "2023-05-27": 479
+      "2023-05-27": 383
     }
   },
   {
@@ -94,9 +95,9 @@
     "slug": "beyond-bu",
     "status": "up",
     "uptime": "96.76%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "98.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "96.14%",
     "time": 2053,
     "timeDay": 1555,
@@ -104,7 +105,6 @@
     "timeMonth": 2387,
     "timeYear": 2061,
     "dailyMinutesDown": {
-      "2023-11-24": 10,
       "2023-11-23": 37,
       "2023-11-22": 24,
       "2023-11-19": 655,
