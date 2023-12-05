@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 2070,
-    "timeDay": 2347,
-    "timeWeek": 1665,
-    "timeMonth": 1830,
-    "timeYear": 2067,
+    "timeDay": 1893,
+    "timeWeek": 1735,
+    "timeMonth": 1802,
+    "timeYear": 2068,
     "dailyMinutesDown": {
       "2023-04-02": 529
     }
@@ -26,17 +26,17 @@
     "slug": "obec-academy",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.78%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "98.90%",
-    "time": 7313,
-    "timeDay": 9303,
-    "timeWeek": 7590,
-    "timeMonth": 7147,
-    "timeYear": 7414,
+    "time": 7314,
+    "timeDay": 9284,
+    "timeWeek": 7527,
+    "timeMonth": 7153,
+    "timeYear": 7418,
     "dailyMinutesDown": {
-      "2023-12-04": 48,
+      "2023-12-04": 39,
       "2023-12-01": 40,
       "2023-11-25": 47,
       "2023-11-24": 120,
@@ -88,7 +88,7 @@
       "2023-05-30": 90,
       "2023-05-29": 130,
       "2023-05-28": 288,
-      "2023-05-27": 192
+      "2023-05-27": 209
     }
   },
   {
@@ -97,15 +97,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/beyond-mct.bu.ac.th.ico",
     "slug": "beyond-bu",
     "status": "up",
-    "uptime": "96.13%",
+    "uptime": "96.14%",
     "uptimeDay": "98.72%",
     "uptimeWeek": "56.01%",
     "uptimeMonth": "87.73%",
     "uptimeYear": "95.27%",
     "time": 2036,
-    "timeDay": 1790,
-    "timeWeek": 1637,
-    "timeMonth": 2400,
+    "timeDay": 1766,
+    "timeWeek": 1743,
+    "timeMonth": 2402,
     "timeYear": 2046,
     "dailyMinutesDown": {
       "2023-12-04": 18,
@@ -152,9 +152,9 @@
     "uptimeMonth": "97.45%",
     "uptimeYear": "99.10%",
     "time": 1696,
-    "timeDay": 2057,
-    "timeWeek": 1429,
-    "timeMonth": 1684,
+    "timeDay": 1895,
+    "timeWeek": 1614,
+    "timeMonth": 1692,
     "timeYear": 1671,
     "dailyMinutesDown": {
       "2023-11-10": 293,
@@ -180,14 +180,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 67,
-    "timeWeek": 88,
+    "timeDay": 72,
+    "timeWeek": 74,
     "timeMonth": 82,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2023-09-21": 16,
-      "2023-08-17": 18,
-      "2022-12-05": 33
+      "2023-08-17": 18
     }
   },
   {
@@ -202,10 +201,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 323,
-    "timeWeek": 146,
-    "timeMonth": 186,
-    "timeYear": 210,
+    "timeDay": 297,
+    "timeWeek": 179,
+    "timeMonth": 190,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2023-02-11": 16
     }
