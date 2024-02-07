@@ -26,9 +26,9 @@
     "slug": "obec-academy",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "70.56%",
-    "uptimeWeek": "77.60%",
-    "uptimeMonth": "92.34%",
+    "uptimeDay": "71.15%",
+    "uptimeWeek": "77.68%",
+    "uptimeMonth": "92.36%",
     "uptimeYear": "98.58%",
     "time": 7402,
     "timeDay": 7680,
@@ -36,7 +36,7 @@
     "timeMonth": 7466,
     "timeYear": 7375,
     "dailyMinutesDown": {
-      "2024-02-07": 396,
+      "2024-02-07": 387,
       "2024-02-06": 1054,
       "2024-02-05": 807,
       "2024-01-21": 69,
@@ -91,7 +91,7 @@
       "2023-06-30": 65,
       "2023-06-29": 107,
       "2023-06-28": 35,
-      "2023-06-27": 22
+      "2023-06-27": 38
     }
   },
   {
@@ -99,9 +99,9 @@
     "url": "https://beyond-mct.bu.ac.th",
     "icon": "https://icons.duckduckgo.com/ip3/beyond-mct.bu.ac.th.ico",
     "slug": "beyond-bu",
-    "status": "up",
+    "status": "down",
     "uptime": "96.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "94.95%",
@@ -111,6 +111,7 @@
     "timeMonth": 1771,
     "timeYear": 2042,
     "dailyMinutesDown": {
+      "2024-02-07": 0,
       "2024-01-29": 16,
       "2024-01-28": 17,
       "2024-01-27": 17,
