@@ -24,14 +24,14 @@
     "url": "https://dlp.obec.go.th",
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "71.56%",
+    "uptimeDay": "72.45%",
     "uptimeWeek": "76.38%",
     "uptimeMonth": "92.06%",
     "uptimeYear": "98.56%",
     "time": 7418,
-    "timeDay": 8594,
+    "timeDay": 8661,
     "timeWeek": 8197,
     "timeMonth": 7671,
     "timeYear": 7399,
@@ -90,8 +90,7 @@
       "2023-07-07": 19,
       "2023-07-03": 20,
       "2023-06-30": 65,
-      "2023-06-29": 107,
-      "2023-06-28": 16
+      "2023-06-29": 107
     }
   },
   {
