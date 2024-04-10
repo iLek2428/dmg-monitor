@@ -22,17 +22,17 @@
     "url": "https://dlp.obec.go.th",
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "98.28%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.63%",
-    "time": 7214,
+    "uptimeYear": "98.64%",
+    "time": 7209,
     "timeDay": 4784,
     "timeWeek": 5687,
     "timeMonth": 6166,
-    "timeYear": 7171,
+    "timeYear": 7168,
     "dailyMinutesDown": {
       "2024-04-10": 25,
       "2024-03-31": 15,
@@ -83,8 +83,7 @@
       "2023-10-14": 130,
       "2023-10-13": 63,
       "2023-10-11": 840,
-      "2023-10-10": 665,
-      "2023-09-25": 30
+      "2023-10-10": 665
     }
   },
   {
@@ -93,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/beyond-mct.bu.ac.th.ico",
     "slug": "beyond-bu",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
