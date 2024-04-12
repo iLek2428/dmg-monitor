@@ -4,19 +4,19 @@
     "url": "https://academy.lanna.co.th",
     "icon": "https://icons.duckduckgo.com/ip3/academy.lanna.co.th.ico",
     "slug": "lannacom-academy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2058,
-    "timeDay": 1981,
-    "timeWeek": 1714,
-    "timeMonth": 1972,
+    "time": 2056,
+    "timeDay": 2033,
+    "timeWeek": 1760,
+    "timeMonth": 1975,
     "timeYear": 1959,
     "dailyMinutesDown": {
-      "2024-04-12": 0
+      "2024-04-12": 16
     }
   },
   {
