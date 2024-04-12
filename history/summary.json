@@ -4,9 +4,9 @@
     "url": "https://academy.lanna.co.th",
     "icon": "https://icons.duckduckgo.com/ip3/academy.lanna.co.th.ico",
     "slug": "lannacom-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1714,
     "timeMonth": 1972,
     "timeYear": 1959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-12": 0
+    }
   },
   {
     "name": "OBEC Academy",
@@ -30,9 +32,9 @@
     "uptimeYear": "98.63%",
     "time": 7182,
     "timeDay": 2858,
-    "timeWeek": 6127,
+    "timeWeek": 6063,
     "timeMonth": 6040,
-    "timeYear": 7155,
+    "timeYear": 7156,
     "dailyMinutesDown": {
       "2024-04-10": 25,
       "2024-03-31": 15,
@@ -93,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/beyond-mct.bu.ac.th.ico",
     "slug": "beyond-bu",
     "status": "up",
-    "uptime": "96.79%",
+    "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
