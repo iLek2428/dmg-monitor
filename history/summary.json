@@ -249,19 +249,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 178,
-    "timeWeek": 289,
-    "timeMonth": 265,
+    "timeDay": 230,
+    "timeWeek": 288,
+    "timeMonth": 266,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-06-29": 0
+      "2024-06-29": 12
     }
   }
 ]
