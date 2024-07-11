@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
     "time": 2008,
-    "timeDay": 1712,
-    "timeWeek": 1917,
+    "timeDay": 1762,
+    "timeWeek": 1961,
     "timeMonth": 2244,
     "timeYear": 2028,
     "dailyMinutesDown": {
@@ -30,17 +30,16 @@
     "slug": "obec-academy",
     "status": "up",
     "uptime": "95.18%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "98.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.13%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "91.20%",
     "time": 7158,
-    "timeDay": 7355,
-    "timeWeek": 7434,
+    "timeDay": 7851,
+    "timeWeek": 7609,
     "timeMonth": 7345,
     "timeYear": 7112,
     "dailyMinutesDown": {
-      "2024-07-10": 13,
       "2024-07-09": 20,
       "2024-07-05": 15,
       "2024-07-04": 556,
@@ -106,7 +105,7 @@
       "2024-01-11": 16,
       "2024-01-10": 34,
       "2024-01-09": 71,
-      "2024-01-08": 81
+      "2024-01-08": 119
     }
   },
   {
@@ -121,8 +120,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.94%",
     "time": 2003,
-    "timeDay": 1537,
-    "timeWeek": 1518,
+    "timeDay": 1770,
+    "timeWeek": 1517,
     "timeMonth": 1760,
     "timeYear": 2008,
     "dailyMinutesDown": {
@@ -204,8 +203,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.62%",
     "time": 1744,
-    "timeDay": 1578,
-    "timeWeek": 1844,
+    "timeDay": 1671,
+    "timeWeek": 1861,
     "timeMonth": 1995,
     "timeYear": 1838,
     "dailyMinutesDown": {
@@ -234,8 +233,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 89,
-    "timeWeek": 115,
+    "timeDay": 91,
+    "timeWeek": 106,
     "timeMonth": 91,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -256,8 +255,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 267,
-    "timeWeek": 330,
+    "timeDay": 337,
+    "timeWeek": 320,
     "timeMonth": 293,
     "timeYear": 216,
     "dailyMinutesDown": {}
