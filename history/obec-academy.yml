@@ -1,7 +1,7 @@
 url: https://dlp.obec.go.th
-status: up
-code: 200
-responseTime: 7075
-lastUpdated: 2024-08-05T06:52:17.496Z
+status: down
+code: 504
+responseTime: 8610
+lastUpdated: 2024-08-05T10:30:37.452Z
 startTime: 2022-09-13T15:15:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
