@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 2019,
-    "timeDay": 1795,
-    "timeWeek": 1744,
-    "timeMonth": 1802,
+    "time": 2020,
+    "timeDay": 2097,
+    "timeWeek": 1783,
+    "timeMonth": 1807,
     "timeYear": 2044,
     "dailyMinutesDown": {
       "2024-04-30": 1091,
@@ -30,17 +30,16 @@
     "slug": "obec-academy",
     "status": "up",
     "uptime": "95.59%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "92.44%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.54%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "91.08%",
     "time": 7017,
-    "timeDay": 9461,
-    "timeWeek": 7891,
-    "timeMonth": 6493,
-    "timeYear": 7097,
+    "timeDay": 8456,
+    "timeWeek": 8063,
+    "timeMonth": 6426,
+    "timeYear": 7103,
     "dailyMinutesDown": {
-      "2024-09-21": 10,
       "2024-09-20": 18,
       "2024-09-19": 123,
       "2024-09-18": 135,
@@ -113,7 +112,8 @@
       "2024-02-06": 1054,
       "2024-02-05": 807,
       "2024-01-21": 69,
-      "2024-01-20": 122
+      "2024-01-20": 122,
+      "2024-01-19": 18
     }
   },
   {
@@ -122,15 +122,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/beyond-mct.bu.ac.th.ico",
     "slug": "beyond-bu",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.48%",
-    "time": 1985,
-    "timeDay": 2089,
-    "timeWeek": 1715,
-    "timeMonth": 1731,
+    "uptimeYear": "97.64%",
+    "time": 1986,
+    "timeDay": 1764,
+    "timeWeek": 1710,
+    "timeMonth": 1737,
     "timeYear": 1988,
     "dailyMinutesDown": {
       "2024-06-06": 31,
@@ -183,8 +183,7 @@
       "2023-11-13": 17,
       "2023-11-03": 15,
       "2023-09-25": 999,
-      "2023-09-24": 1440,
-      "2023-09-23": 1440
+      "2023-09-24": 1440
     }
   },
   {
@@ -198,10 +197,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
-    "time": 1830,
-    "timeDay": 2178,
-    "timeWeek": 1788,
-    "timeMonth": 1749,
+    "time": 1832,
+    "timeDay": 1928,
+    "timeWeek": 1791,
+    "timeMonth": 1762,
     "timeYear": 1848,
     "dailyMinutesDown": {
       "2024-03-18": 672,
@@ -227,10 +226,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 160,
-    "timeWeek": 97,
+    "timeDay": 86,
+    "timeWeek": 98,
     "timeMonth": 96,
-    "timeYear": 114,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 39
     }
@@ -247,9 +246,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 767,
-    "timeWeek": 288,
-    "timeMonth": 253,
+    "timeDay": 224,
+    "timeWeek": 285,
+    "timeMonth": 254,
     "timeYear": 239,
     "dailyMinutesDown": {}
   }
