@@ -28,10 +28,10 @@
     "url": "https://dlp.obec.go.th",
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
-    "status": "up",
-    "uptime": "95.80%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
+    "status": "down",
+    "uptime": "95.81%",
+    "uptimeDay": "94.99%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "91.35%",
     "time": 7086,
@@ -115,7 +115,7 @@
       "2024-02-09": 53,
       "2024-02-08": 371,
       "2024-02-07": 387,
-      "2024-02-06": 27
+      "2024-02-06": 4
     }
   },
   {
