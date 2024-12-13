@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 2043,
-    "timeDay": 1583,
-    "timeWeek": 1968,
-    "timeMonth": 2334,
-    "timeYear": 2093,
+    "time": 2044,
+    "timeDay": 2179,
+    "timeWeek": 1966,
+    "timeMonth": 2340,
+    "timeYear": 2081,
     "dailyMinutesDown": {
       "2024-04-30": 1091,
       "2024-04-29": 1440,
@@ -29,18 +29,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
     "status": "up",
-    "uptime": "96.15%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "91.33%",
+    "uptime": "96.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "91.32%",
     "time": 7032,
-    "timeDay": 7762,
-    "timeWeek": 4810,
-    "timeMonth": 5143,
-    "timeYear": 7034,
+    "timeDay": 9642,
+    "timeWeek": 5104,
+    "timeMonth": 5147,
+    "timeYear": 7040,
     "dailyMinutesDown": {
-      "2024-12-12": 8,
       "2024-11-28": 68,
       "2024-11-03": 49,
       "2024-11-01": 137,
@@ -120,7 +119,7 @@
       "2024-02-10": 18,
       "2024-02-09": 53,
       "2024-02-08": 371,
-      "2024-02-07": 88
+      "2024-02-07": 120
     }
   },
   {
@@ -134,10 +133,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1993,
-    "timeDay": 1609,
-    "timeWeek": 2118,
-    "timeMonth": 2143,
+    "time": 1992,
+    "timeDay": 1561,
+    "timeWeek": 1471,
+    "timeMonth": 2137,
     "timeYear": 1970,
     "dailyMinutesDown": {
       "2024-10-15": 22,
@@ -171,8 +170,7 @@
       "2023-12-18": 46,
       "2023-12-17": 5,
       "2023-12-16": 15,
-      "2023-12-15": 22,
-      "2023-12-14": 37
+      "2023-12-15": 22
     }
   },
   {
@@ -187,10 +185,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 1853,
-    "timeDay": 1787,
-    "timeWeek": 2100,
-    "timeMonth": 1965,
-    "timeYear": 1884,
+    "timeDay": 1712,
+    "timeWeek": 2096,
+    "timeMonth": 1968,
+    "timeYear": 1885,
     "dailyMinutesDown": {
       "2024-03-18": 672,
       "2024-03-17": 1371,
@@ -210,9 +208,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 117,
-    "timeWeek": 117,
-    "timeMonth": 110,
+    "timeDay": 145,
+    "timeWeek": 124,
+    "timeMonth": 111,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 39
@@ -230,8 +228,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 218,
-    "timeWeek": 328,
+    "timeDay": 200,
+    "timeWeek": 308,
     "timeMonth": 251,
     "timeYear": 248,
     "dailyMinutesDown": {}
