@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.54%",
     "uptimeDay": "95.45%",
-    "uptimeWeek": "72.30%",
+    "uptimeWeek": "73.15%",
     "uptimeMonth": "69.41%",
     "uptimeYear": "96.52%",
     "time": 2113,
     "timeDay": 4441,
     "timeWeek": 2990,
-    "timeMonth": 2522,
-    "timeYear": 2146,
+    "timeMonth": 2513,
+    "timeYear": 2148,
     "dailyMinutesDown": {
       "2025-02-28": 65,
       "2025-02-25": 569,
@@ -42,16 +42,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
     "status": "up",
-    "uptime": "96.49%",
+    "uptime": "96.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.53%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "91.46%",
     "time": 6834,
     "timeDay": 7326,
     "timeWeek": 6315,
-    "timeMonth": 6846,
-    "timeYear": 6516,
+    "timeMonth": 6805,
+    "timeYear": 6522,
     "dailyMinutesDown": {
       "2025-02-26": 21,
       "2025-02-24": 39,
@@ -150,8 +150,8 @@
     "time": 1881,
     "timeDay": 1586,
     "timeWeek": 2233,
-    "timeMonth": 2007,
-    "timeYear": 1862,
+    "timeMonth": 2059,
+    "timeYear": 1863,
     "dailyMinutesDown": {
       "2024-10-15": 22,
       "2024-06-06": 31,
@@ -172,14 +172,13 @@
     "time": 1926,
     "timeDay": 1697,
     "timeWeek": 1946,
-    "timeMonth": 2562,
-    "timeYear": 1952,
+    "timeMonth": 2603,
+    "timeYear": 1949,
     "dailyMinutesDown": {
       "2025-01-16": 18,
       "2024-03-18": 672,
       "2024-03-17": 1371,
-      "2024-03-04": 231,
-      "2024-03-01": 315
+      "2024-03-04": 231
     }
   },
   {
@@ -196,7 +195,7 @@
     "time": 108,
     "timeDay": 115,
     "timeWeek": 100,
-    "timeMonth": 146,
+    "timeMonth": 144,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-05-01": 39
@@ -216,7 +215,7 @@
     "time": 236,
     "timeDay": 199,
     "timeWeek": 195,
-    "timeMonth": 179,
+    "timeMonth": 172,
     "timeYear": 244,
     "dailyMinutesDown": {}
   }
