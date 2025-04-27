@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.47%",
-    "time": 2169,
-    "timeDay": 1571,
-    "timeWeek": 2163,
-    "timeMonth": 2770,
+    "time": 2168,
+    "timeDay": 1637,
+    "timeWeek": 2175,
+    "timeMonth": 2690,
     "timeYear": 2245,
     "dailyMinutesDown": {
       "2025-03-18": 257,
@@ -32,8 +32,7 @@
       "2025-02-13": 108,
       "2024-04-30": 1091,
       "2024-04-29": 1440,
-      "2024-04-28": 1440,
-      "2024-04-27": 902
+      "2024-04-28": 1440
     }
   },
   {
@@ -45,13 +44,13 @@
     "uptime": "96.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "92.21%",
-    "time": 7260,
-    "timeDay": 7328,
-    "timeWeek": 7805,
-    "timeMonth": 15371,
-    "timeYear": 7346,
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "92.48%",
+    "time": 7253,
+    "timeDay": 3052,
+    "timeWeek": 7362,
+    "timeMonth": 14966,
+    "timeYear": 7338,
     "dailyMinutesDown": {
       "2025-04-24": 26,
       "2025-04-21": 43,
@@ -134,8 +133,7 @@
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
-      "2024-04-28": 1440,
-      "2024-04-27": 1440
+      "2024-04-28": 1440
     }
   },
   {
@@ -150,10 +148,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1893,
-    "timeDay": 1517,
-    "timeWeek": 1888,
-    "timeMonth": 2186,
-    "timeYear": 1912,
+    "timeDay": 1817,
+    "timeWeek": 1881,
+    "timeMonth": 2053,
+    "timeYear": 1913,
     "dailyMinutesDown": {
       "2024-10-15": 22,
       "2024-06-06": 31,
@@ -166,16 +164,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mooc.rmuti.ac.th.ico",
     "slug": "rmuti-mooc",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
-    "time": 1997,
-    "timeDay": 1558,
-    "timeWeek": 2147,
-    "timeMonth": 2549,
-    "timeYear": 2044,
+    "time": 1999,
+    "timeDay": 2926,
+    "timeWeek": 2301,
+    "timeMonth": 2543,
+    "timeYear": 2048,
     "dailyMinutesDown": {
       "2025-03-24": 55,
       "2025-03-03": 595,
@@ -196,9 +194,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 107,
-    "timeWeek": 108,
-    "timeMonth": 107,
+    "timeDay": 193,
+    "timeWeek": 120,
+    "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-05-01": 39
@@ -216,8 +214,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 108,
-    "timeWeek": 254,
+    "timeDay": 175,
+    "timeWeek": 238,
     "timeMonth": 167,
     "timeYear": 237,
     "dailyMinutesDown": {}
