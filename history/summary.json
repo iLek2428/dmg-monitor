@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.76%",
-    "time": 2168,
-    "timeDay": 1357,
-    "timeWeek": 2131,
-    "timeMonth": 2574,
-    "timeYear": 2243,
+    "uptimeYear": "96.93%",
+    "time": 2162,
+    "timeDay": 1365,
+    "timeWeek": 1756,
+    "timeMonth": 2489,
+    "timeYear": 2240,
     "dailyMinutesDown": {
       "2025-03-18": 257,
       "2025-02-28": 65,
@@ -30,8 +30,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 429,
       "2025-02-13": 108,
-      "2024-04-30": 1091,
-      "2024-04-29": 1440
+      "2024-04-30": 1091
     }
   },
   {
@@ -41,14 +40,14 @@
     "slug": "obec-academy",
     "status": "up",
     "uptime": "96.73%",
-    "uptimeDay": "90.97%",
+    "uptimeDay": "92.06%",
     "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "92.83%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "93.00%",
     "time": 7252,
-    "timeDay": 7863,
-    "timeWeek": 6899,
-    "timeMonth": 14229,
+    "timeDay": 7844,
+    "timeWeek": 6944,
+    "timeMonth": 14029,
     "timeYear": 7341,
     "dailyMinutesDown": {
       "2025-04-28": 114,
@@ -132,8 +131,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -148,10 +146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1893,
-    "timeDay": 1591,
-    "timeWeek": 1813,
-    "timeMonth": 2050,
-    "timeYear": 1914,
+    "timeDay": 1693,
+    "timeWeek": 1705,
+    "timeMonth": 2032,
+    "timeYear": 1915,
     "dailyMinutesDown": {
       "2024-10-15": 22,
       "2024-06-06": 31,
@@ -170,10 +168,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
     "time": 2001,
-    "timeDay": 2334,
-    "timeWeek": 2421,
-    "timeMonth": 2496,
-    "timeYear": 2050,
+    "timeDay": 1550,
+    "timeWeek": 2230,
+    "timeMonth": 2433,
+    "timeYear": 2051,
     "dailyMinutesDown": {
       "2025-03-24": 55,
       "2025-03-03": 595,
@@ -194,9 +192,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 146,
+    "timeDay": 90,
     "timeWeek": 127,
-    "timeMonth": 106,
+    "timeMonth": 105,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-05-01": 39
@@ -213,10 +211,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 828,
-    "timeWeek": 301,
-    "timeMonth": 191,
+    "time": 232,
+    "timeDay": 45,
+    "timeWeek": 250,
+    "timeMonth": 190,
     "timeYear": 239,
     "dailyMinutesDown": {}
   }
