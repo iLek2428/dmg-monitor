@@ -223,17 +223,16 @@
     "slug": "obec-academy",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.41%",
     "time": 7140,
     "timeDay": 9089,
     "timeWeek": 5818,
     "timeMonth": 6799,
     "timeYear": 7488,
     "dailyMinutesDown": {
-      "2026-01-26": 7,
       "2026-01-10": 30,
       "2026-01-07": 32,
       "2026-01-01": 34,
@@ -306,7 +305,7 @@
       "2025-02-26": 21,
       "2025-02-24": 39,
       "2025-02-22": 19,
-      "2025-02-21": 24
+      "2025-02-21": 41
     }
   },
   {
@@ -340,14 +339,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.55%",
+    "uptimeYear": "37.52%",
     "time": 2124,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2302,
     "dailyMinutesDown": {
-      "2026-01-26": 1401,
+      "2026-01-27": 102,
+      "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
