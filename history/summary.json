@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.lanna.co.th.ico",
     "slug": "lannacom-academy",
     "status": "up",
-    "uptime": "84.67%",
+    "uptime": "84.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -208,18 +208,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlp.obec.go.th.ico",
     "slug": "obec-academy",
     "status": "down",
-    "uptime": "99.32%",
+    "uptime": "99.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.88%",
-    "uptimeMonth": "78.43%",
-    "uptimeYear": "97.62%",
+    "uptimeWeek": "5.04%",
+    "uptimeMonth": "77.31%",
+    "uptimeYear": "97.53%",
     "time": 7240,
     "timeDay": 5321,
     "timeWeek": 4933,
     "timeMonth": 6192,
     "timeYear": 7526,
     "dailyMinutesDown": {
-      "2026-03-18": 119,
+      "2026-03-18": 608,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -332,7 +332,7 @@
     "uptime": "79.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.06%",
+    "uptimeMonth": "61.17%",
     "uptimeYear": "28.73%",
     "time": 2242,
     "timeDay": 3322,
@@ -642,9 +642,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -653,6 +653,8 @@
     "timeWeek": 223,
     "timeMonth": 190,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-18": 0
+    }
   }
 ]
